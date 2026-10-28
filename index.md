@@ -1,6 +1,6 @@
 # Privacy Policy for YuPillTime
 
-**Last updated:** September 7, 2026
+**Last updated:** October 28, 2026
 
 YuStudio ("we", "our", or "us") operates the **YuPillTime** mobile application (the "Service"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service.
 
@@ -57,5 +57,5 @@ We may update our Privacy Policy from time to time. Any changes will be posted d
 
 If you have any questions or suggestions regarding this Privacy Policy, please contact us at:
 
-- **Email:** your-email@gmail.com
+- **Email:** yustudiolive@gmail.com
 - **Developer:** YuStudio
